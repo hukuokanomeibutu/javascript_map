@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+  }
+  
+  #map {
+    height: 100vh;
+  }
+/*ふきだしの背景色変更*/
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+    background: #0d5cd4;
+    color: #5ce1fe;
+  }
+  
+  img {
+    width: 100%;
+  }
+   
